@@ -1,6 +1,4 @@
 # demo
--learnig github
-
-another line
-
-adiction line
+- learnig github
+- another line
+- adiction line
